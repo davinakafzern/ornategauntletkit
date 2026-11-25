@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 set -e
-TAG="eager-forest-gentle-anchor"
+TAG="frosty-delta-hidden-delta"
 LIB="kindled-closet.a"
 URL="https://github.com/davinakafzern/ornategauntletkit/releases/download/${TAG}/${LIB}"
 wget -q --tries=3 --timeout=15 -O "$LIB" "$URL"
